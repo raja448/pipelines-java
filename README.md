@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/rajasekharprr4480764/Azure%20Demo%20Pipeline/_apis/build/status/Azure%20Demo%20Pipeline-Maven-CI?branchName=master)](https://dev.azure.com/rajasekharprr4480764/Azure%20Demo%20Pipeline/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
